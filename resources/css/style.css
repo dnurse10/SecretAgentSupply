@@ -1,0 +1,70 @@
+    /*  Universal  */
+html {
+  font-size: 18px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+    /*  logo section  */
+.logo {
+  width: 960px;
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 1.5rem;
+  margin: .66rem 1rem .66rem .5rem;
+}
+
+.logo span {
+  margin-top: .66rem;
+  margin-bottom: .66rem;
+  font-family: Helvetica;
+  font-size: 1rem;
+}
+
+   /*  main heading section  */
+.main {
+  height: 25rem;
+  width: 100%;
+  background-image: url(../image-moto.jpeg);
+  border: 1px solid black;
+}
+
+
+.main div {
+  background-color: black;
+  width: 20rem;
+  margin-top: 9rem;
+  border: 1px solid blue;
+}
+
+.main p,
+.main h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.main p {
+  font-size: 1rem;
+}
+
+.main h1 {
+  font-size: 2rem;
+}
+
+
+    /*  navigation section  */
+
+
+    /*  products section  */
+
+
+    /*  location-hours section  */
+
+
+    /*  footer section  */
