@@ -32,9 +32,15 @@ body {
   height: 25rem;
   width: 100%;
   background-image: url(../image-moto.jpeg);
+  background-size: cover;
+  background-position: cover;
   border: 1px solid black;
 }
 
+.main-title {
+  padding: 2rem 3rem;
+  margin-left: 7rem;
+}
 
 .main div {
   background-color: black;
@@ -55,6 +61,7 @@ body {
 
 .main h1 {
   font-size: 2rem;
+  padding-top: .25rem;
 }
 
 
